@@ -6,3 +6,4 @@
 1. Thiago Dertinati
 2. Danilo Gomes
 3. Abdalla
+4. Juliana
